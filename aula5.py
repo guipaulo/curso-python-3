@@ -1,1 +1,4 @@
 print(type(True))
+print(10 == 10)
+
+print(10 == 11)
